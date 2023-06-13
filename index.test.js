@@ -20,14 +20,7 @@ describe('[Exercise 3] findLargestInteger', () => {
   // test('[5] returns the largest number in an array of objects { integer: 2 }', () => {})
 })
 
-describe('[Exercise 4] Counter', () => {
-  let counter
-  beforeEach(() => {
-    counter = new utils.Counter(3) // each test must start with a fresh couter
   })
-  // test('[6] the FIRST CALL of counter.countDown returns the initial count', () => {})
-  // test('[7] the SECOND CALL of counter.countDown returns the initial count minus one', () => {})
-  // test('[8] the count eventually reaches zero but does not go below zero', () => {})
 })
 
 describe('[Exercise 5] Seasons', () => {
